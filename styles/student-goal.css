@@ -148,6 +148,7 @@
   .oe-sg-steps-wrapper,
   .oe-sg-count-wrapper {
     left: 40%;
+    justify-content: flex-start;
   }
   .oe-sg-wrapper {
     position: relative;
